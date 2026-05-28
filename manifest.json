@@ -8,6 +8,13 @@
       "type": "single",
       "firstDeployedAt": "2026-05-28T15:19:31.475Z",
       "updatedAt": "2026-05-28T15:21:58.154Z"
+    },
+    {
+      "slug": "introduction-to-database-programming-and-sql",
+      "title": "Introduction to Database Programming and SQL",
+      "type": "single",
+      "firstDeployedAt": "2026-05-28T15:29:10.478Z",
+      "updatedAt": "2026-05-28T15:29:10.478Z"
     }
   ]
 }
