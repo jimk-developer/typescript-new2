@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "hubTitle": "Typescript New2",
+  "courses": [
+    {
+      "slug": "introduction-to-database-programming-fundamentals",
+      "title": "Introduction to Database Programming Fundamentals",
+      "type": "single",
+      "firstDeployedAt": "2026-05-28T15:19:31.475Z",
+      "updatedAt": "2026-05-28T15:19:31.475Z"
+    }
+  ]
+}
